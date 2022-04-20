@@ -1,6 +1,6 @@
 #!/bin/bash
 
 cd app/appRss
-pwd
+git init
 ls
 code .
